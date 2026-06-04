@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WoodenDoor
+  m_Controller: {fileID: 9100000, guid: da3bb8644048837469c6297ac246cfec, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: c514a08d0ac38c14199ca88f19e79fde, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b38a1e16f7da61742867b05509cbb52f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7c3cce534081fea41b8ee1196c25c946, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fa77d2661a9edde4fb92987605ab8ab1, type: 2}
